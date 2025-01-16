@@ -1,0 +1,18 @@
+.dashboard {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .dashboard h2 {
+    color: #333;
+  }
+  
+  .dashboard p {
+    color: #666;
+  }
+  
